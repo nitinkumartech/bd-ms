@@ -1,0 +1,16 @@
+C:\Users\rockr\source\repos\PDE\PDE\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\rockr\source\repos\PDE\PDE\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\rockr\source\repos\PDE\PDE\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\rockr\source\repos\PDE\PDE\bin\Debug\netcoreapp2.1\PDE.deps.json
+C:\Users\rockr\source\repos\PDE\PDE\bin\Debug\netcoreapp2.1\PDE.runtimeconfig.json
+C:\Users\rockr\source\repos\PDE\PDE\bin\Debug\netcoreapp2.1\PDE.runtimeconfig.dev.json
+C:\Users\rockr\source\repos\PDE\PDE\bin\Debug\netcoreapp2.1\PDE.dll
+C:\Users\rockr\source\repos\PDE\PDE\obj\Debug\netcoreapp2.1\PDE.csprojAssemblyReference.cache
+C:\Users\rockr\source\repos\PDE\PDE\obj\Debug\netcoreapp2.1\PDE.RazorAssemblyInfo.cache
+C:\Users\rockr\source\repos\PDE\PDE\obj\Debug\netcoreapp2.1\PDE.RazorAssemblyInfo.cs
+C:\Users\rockr\source\repos\PDE\PDE\obj\Debug\netcoreapp2.1\PDE.AssemblyInfoInputs.cache
+C:\Users\rockr\source\repos\PDE\PDE\obj\Debug\netcoreapp2.1\PDE.AssemblyInfo.cs
+C:\Users\rockr\source\repos\PDE\PDE\obj\Debug\netcoreapp2.1\PDE.RazorTargetAssemblyInfo.cache
+C:\Users\rockr\source\repos\PDE\PDE\bin\Debug\netcoreapp2.1\PDE.pdb
+C:\Users\rockr\source\repos\PDE\PDE\obj\Debug\netcoreapp2.1\PDE.dll
+C:\Users\rockr\source\repos\PDE\PDE\obj\Debug\netcoreapp2.1\PDE.pdb
